@@ -1,4 +1,7 @@
 # Ex-4-GENERATION OF LEXICAL TOKENS LEX FLEX TOOL
+# Name:Mathavan V
+# Register No:212223110026
+# Date:
 # AIM
 ## To write a lex program to implement lexical analyzer to recognize a few patterns.
 # ALGORITHM
